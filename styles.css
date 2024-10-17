@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #9f9;
+    padding: 50px 10%;
+}
+
+footer {
+    background-color: #005;
+}
+
+.feature {
+    display: flex;
+
+}
+
+.left {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.right {
+    width: 50%;
+}
+
+.img1 {
+    width: 100%;
+}
